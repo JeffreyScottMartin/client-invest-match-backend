@@ -7,7 +7,7 @@ public_folder: "/uploads"
 
 site_url: https://investmatch.ca # Frontend (hosted on Vercel)
 display_url: https://investmatch.ca
-logo_url: https://investmatch.ca/logo.png
+logo_url: https://investmatch.ca/branding/logo-2@1x.png
 
 collections:
   - name: "articles"

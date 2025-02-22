@@ -1,0 +1,23 @@
+backend:
+  name: git-gateway
+  branch: master # Change if using a different branch
+
+media_folder: "public/uploads" # Where images/files are stored
+public_folder: "/uploads"
+
+site_url: https://investmatch.ca # Frontend (hosted on Vercel)
+display_url: https://investmatch.ca
+logo_url: https://investmatch.ca/logo.png
+
+collections:
+  - name: "articles"
+    label: "Articles"
+    folder: "content/articles"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: "title", label: "Title", widget: "string" }
+      - { name: "date", label: "Date", widget: "datetime" }
+      - { name: "description", label: "Description", widget: "text" }
+      - { name: "body", label: "Content", widget: "markdown" }
+      - { name: "image", label: "Cover Image", widget: "image" }

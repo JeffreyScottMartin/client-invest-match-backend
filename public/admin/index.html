@@ -1,13 +1,37 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <meta charset="utf-8" />
+    <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Invest Match Canada CMS</title>
+    <title>InvestMatch CMS</title>
+
+    <!-- Netlify CMS -->
+    <script src="https://unpkg.com/netlify-cms@2/dist/netlify-cms.js"></script>
+
+    <!-- Netlify Identity Widget -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
-    <!-- Include the script that builds the page and powers Decap CMS -->
-    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <script>
+      // Ensure CMS initializes after the page loads
+      document.addEventListener("DOMContentLoaded", function () {
+        if (typeof CMS !== "undefined") {
+          CMS.init();
+        } else {
+          console.error("Netlify CMS failed to load.");
+        }
+
+        // Initialize Netlify Identity for login
+        if (window.netlifyIdentity) {
+          window.netlifyIdentity.on("init", (user) => {
+            if (!user) {
+              window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+              });
+            }
+          });
+        }
+      });
+    </script>
   </body>
 </html>

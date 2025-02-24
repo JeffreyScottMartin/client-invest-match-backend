@@ -7,7 +7,7 @@ description: The shift from traditional boss-centered management to a
   innovation, and workplace relationships. By adopting coaching, companies can
   create a more dynamic and supportive environment, leading to long-term
   success.
-image: /uploads/boss-to-coach-model.jpg
+image: /uploads/pexels-lucanardone-3651820.jpg
 ---
 
 InvestMatch Insights are crafted by our expert team and channel partners. These insights reflect our experience and demonstrate our unique approach to problem-solving. By blending diverse perspectives and deep industry knowledge, we provide valuable guidance that empowers our clients to navigate challenges and seize opportunities with confidence.

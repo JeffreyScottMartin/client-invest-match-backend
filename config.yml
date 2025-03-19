@@ -20,4 +20,5 @@ collections:
       - { name: "date", label: "Date", widget: "datetime" }
       - { name: "description", label: "Description", widget: "text" }
       - { name: "body", label: "Content", widget: "markdown" }
+      - { name: "imageCopyright", label: "Image Copyright", widget: "string", required: false }
       - { name: "image", label: "Cover Image", widget: "image" }

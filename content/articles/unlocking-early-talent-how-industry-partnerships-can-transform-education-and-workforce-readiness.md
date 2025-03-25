@@ -9,6 +9,8 @@ description: "Employers are eager to engage early talent, yet they often
   for the workforce but actively integrated into it. "
 image: /uploads/rethinking-higher-education.jpg
 ---
+**Introduction**
+
 Ontario's post-secondary institutions are navigating a turbulent period marked by financial constraints and structural challenges. The recent austerity measures announced by Queen's University serve as a stark example of the broader struggles faced by universities and colleges across the province. However, amidst these challenges lies a unique opportunity for industries to play a pivotal role in reshaping how post-secondary institutions prepare talent for the future.
 
 **The Struggles: Austerity and Financial Constraints**

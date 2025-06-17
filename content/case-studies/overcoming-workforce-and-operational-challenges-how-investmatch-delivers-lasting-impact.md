@@ -7,7 +7,7 @@ description: InvestMatch helped a client tackle workforce and operational
   showcases InvestMatch’s expertise in delivering tailored solutions for
   sustainable growth.
 feature: true
-image: /uploads/gears.jpg
+image: /uploads/gear-192875_1280.jpg
 ---
 At InvestMatch, our mission is to empower organizations to thrive by addressing their most complex challenges with tailored and effective solutions. One such success story highlights how we supported a rapidly growing client to transform their operations and workforce dynamics in ways that continue to resonate.
 

@@ -22,6 +22,7 @@ collections:
       - { name: "body", label: "Content", widget: "markdown" }
       - { name: "imageCopyright", label: "Image Copyright", widget: "string", required: false }
       - { name: "image", label: "Cover Image", widget: "image" }
+      - { name: "tags", label: "Tags", widget: "Select", multiple: true, options: ["Growth & Market Strategy", "Tech Integration & Innovation", "Operations & Process", "Customer Engagement", "Finance & Capital Access"], required: false } 
   - name: "case-studies"
     label: "Case Studies"
     folder: "content/case-studies"

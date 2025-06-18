@@ -6,6 +6,9 @@ description: Toronto's retail sector is navigating a transformative period,
   resilience. Despite facing issues like construction disruptions, high rental
   rates, and economic uncertainties, the market remains robust.
 image: /uploads/toronto-retail.jpg
+tags:
+  - Finance & Capital Access
+  - Growth & Market Strategy
 ---
 **Toronto Retail Resilience: Navigating Economic Challenges and Shifting Trends**
 

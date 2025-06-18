@@ -7,6 +7,9 @@ description: Embrace a values-alignment hiring strategy that cultivates dynamic,
   perspectives, your organization can achieve long-term growth and innovation.
 imageCopyright: Photo by Олександр К
 image: /uploads/pexels-1609538911-28390683.jpg
+tags:
+  - Growth & Market Strategy
+  - Operations & Process
 ---
 **Hiring for Values Alignment: Building Resilient Teams Through Shared Principles**
 

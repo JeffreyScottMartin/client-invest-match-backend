@@ -22,7 +22,12 @@ collections:
       - { name: "body", label: "Content", widget: "markdown" }
       - { name: "imageCopyright", label: "Image Copyright", widget: "string", required: false }
       - { name: "image", label: "Cover Image", widget: "image" }
-      - { name: "tags", label: "Tags", widget: "Select", multiple: true, options: ["Growth & Market Strategy", "Tech Integration & Innovation", "Operations & Process", "Customer Engagement", "Finance & Capital Access"], required: false } 
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        multiple: true
+        options: ["General", "Growth & Market Strategy", "Tech Integration & Innovation", "Operations & Process", "Customer Engagement", "Finance & Capital Access"]
+        default: ["General"]
   - name: "case-studies"
     label: "Case Studies"
     folder: "content/case-studies"

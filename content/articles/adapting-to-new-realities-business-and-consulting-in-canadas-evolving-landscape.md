@@ -8,6 +8,9 @@ description: InvestMatch Insights are crafted by our expert team and channel
   industry knowledge, we provide valuable guidance that empowers our clients to
   navigate challenges and seize opportunities with confidence.
 image: /uploads/1739546052221.jpg
+tags:
+  - Growth & Market Strategy
+  - Operations & Process
 ---
 **Change: The Future of Business and Consulting in Canada**
 

@@ -7,6 +7,9 @@ description: Canada Post is at a crossroads, battling billions in losses while
   whether to adapt or risk dragging businesses further into financial
   crisis—this showdown is a warning for the entire public sector.
 image: /uploads/pexels-stephentcandrews-9900013.jpg
+tags:
+  - Operations & Process
+  - Growth & Market Strategy
 ---
 Canada Post and the Canadian Union of Postal Workers are locked in a heated negotiation, with the union demanding significant wage increases while the company struggles with mounting financial losses and government bailouts. The dispute highlights a broader challenge facing labour unions today: how to balance worker protections with the realities of a changing market.
 

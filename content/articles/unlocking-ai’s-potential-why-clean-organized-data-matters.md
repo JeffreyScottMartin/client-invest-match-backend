@@ -8,6 +8,9 @@ description: AI is revolutionizing business, but without clean, structured data,
   full potential
 imageCopyright: Photo by Kevin Ku
 image: /uploads/pexels-kevin-ku-92347-577585.jpg
+tags:
+  - Tech Integration & Innovation
+  - Operations & Process
 ---
 **Unlocking AI’s Potential: Why Clean, Organized Data Matters**
 

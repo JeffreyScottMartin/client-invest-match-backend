@@ -8,6 +8,9 @@ description: Hudson's Bay's decline highlights the need for innovation over mere
 imageCopyright: "Photo by Merlin Lightpainting:
   https://www.pexels.com/photo/digital-art-in-close-up-shot-14314636/"
 image: /uploads/pexels-merlin-14314636.jpg
+tags:
+  - Customer Engagement
+  - Growth & Market Strategy
 ---
 **Stagnation in Innovation: Hudson's Bay and the Need for Differentiation**
 

@@ -8,6 +8,9 @@ description: "Employers are eager to engage early talent, yet they often
   clearer pathways for new talent, ensuring that graduates are not only prepared
   for the workforce but actively integrated into it. "
 image: /uploads/rethinking-higher-education.jpg
+tags:
+  - Growth & Market Strategy
+  - Customer Engagement
 ---
 **Introduction**
 

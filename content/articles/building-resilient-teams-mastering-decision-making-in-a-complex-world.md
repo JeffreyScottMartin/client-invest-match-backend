@@ -9,6 +9,9 @@ description: Dive into the art of decision-making with "Building Resilient
   unpredictability.
 imageCopyright: Photo by Pixabay
 image: /uploads/pexels-pixabay-56832.jpg
+tags:
+  - Operations & Process
+  - Growth & Market Strategy
 ---
 **Building Resilient Teams: Mastering Decision-Making in a Complex World**
 

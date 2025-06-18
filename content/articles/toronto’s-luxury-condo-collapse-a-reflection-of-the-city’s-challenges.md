@@ -7,6 +7,9 @@ description: "Toronto’s skyline tells a cautionary tale: luxury condos priced
   overbuilding in a niche market and the lessons business leaders across
   industries can learn from these ambitious failures."
 image: /uploads/pexels-westarmoney-27244263.jpg
+tags:
+  - Finance & Capital Access
+  - Growth & Market Strategy
 ---
 
 

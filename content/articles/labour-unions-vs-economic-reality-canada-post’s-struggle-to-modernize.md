@@ -4,8 +4,8 @@ date: 2025-05-27T10:57:00.000Z
 description: Canada Post is at a crossroads, battling billions in losses while
   its union demands aggressive wage increases, raising urgent questions about
   the future of labour relations. As industries evolve, unions must decide
-  whether to adapt or risk dragging businesses further into financial
-  crisis—this showdown is a warning for the entire public sector.
+  whether to adapt or risk dragging businesses further into financial crisis
+  this showdown is a warning for the entire public sector.
 image: /uploads/pexels-stephentcandrews-9900013.jpg
 tags:
   - Operations & Process

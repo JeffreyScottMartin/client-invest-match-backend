@@ -1,5 +1,5 @@
 ---
-title: Why Talent Investment Pays Off—Even When People Leave
+title: Why Talent Investment Pays Off, Even When People Leave
 date: 2025-04-22T09:07:00.000Z
 description: '"What if we invest in our people and they leave? What if we don’t
   and they stay?" The article argues that fostering employee growth benefits

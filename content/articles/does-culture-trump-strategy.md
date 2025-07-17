@@ -8,6 +8,8 @@ description: This blog looks at why so many smart strategies still fall flat and
 image: /uploads/pexels-salah-ozil-78566588-10919385.jpg
 tags:
   - General
+  - Growth & Market Strategy
+  - Operations & Process
 ---
 **Does Culture Trump Strategy?**
 

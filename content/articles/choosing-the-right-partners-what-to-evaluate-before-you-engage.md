@@ -48,8 +48,13 @@ At InvestMatch, we help remove the guesswork. We curate and match businesses wit
 
 **Sources**
 ¹ Contract Management Cost Statistics, https://www.weshare.net/statistics/contract-management-statistics
+
 ² McKinsey: Why managing culture is critical for value creation in M&A, https://www.mckinsey.com/capabilities/m-and-a/our-insights/why-managing-culture-is-critical-for-value-creation-in-m-and-a
+
 ³ McKinsey/McKinsey research on vendor scope and governance gaps, https://www.mckinsey.com/capabilities/m-and-a/our-insights/why-managing-culture-is-critical-for-value-creation-in-m-and-a
+
 ⁴ Forrester: Vendor Collaboration Benefits, https://thoughtleadership.forrester.com/go/microsoft/collaborationbydesign//docs/TLP_Collaboration-By-Design-In-An-Age-Of-Generative-AI-And-The-Modern-Workplace.pdf
+
 ⁵ Fifth Percentile statistic from Deloitte and WiFiTalents on vendor risk, https://wifitalents.com/third-party-risk-statistics
+
 ⁶ IBM Global C-Suite Study, High-Performing Vendor Relationships, https://www.ibm.com/analytics/c-suite-study

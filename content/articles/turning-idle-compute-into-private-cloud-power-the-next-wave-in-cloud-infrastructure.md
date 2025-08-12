@@ -13,7 +13,7 @@ tags:
 ---
 **Turning Idle Compute into Private Cloud Power: The Next Wave in Cloud Infrastructure**
 
-According to the Natural Resources Defense Council (NRDC**)**, 30–50% of enterprise computing power sits unused, quietly burning capital while doing nothing for the business.
+According to the Natural Resources Defense Council (NRDC), 20–30% of enterprise computing power sits unused, quietly burning capital while doing nothing for the business.
 
 What if that silent capacity could be turned into a high-performance private cloud, delivering the agility of public cloud without the long-term contracts or vendor lock-in?
 

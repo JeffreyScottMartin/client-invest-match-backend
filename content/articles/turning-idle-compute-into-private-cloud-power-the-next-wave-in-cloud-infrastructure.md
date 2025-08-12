@@ -6,6 +6,7 @@ description: Across industries, vast amounts of computing power sit idle. A
   costly, overlooked asset hiding in plain sight. This article explores how
   innovators are transforming that excess capacity into high-performance private
   clouds, unlocking agility, security, and cost savings without new hardware.
+imageCopyright: Photo by Brett Sayles
 image: /uploads/pexels-brett-sayles-2881229.jpg
 tags:
   - General

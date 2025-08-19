@@ -5,7 +5,8 @@ description: Struggling to decide whether to hire internally or bring in
   external partners? This article breaks down a practical framework to help your
   business balance expertise, flexibility, and results so every project hits its
   mark.
-image: /uploads/pexels-gabby-k-5849593.jpg
+imageCopyright: Photo by Tara Winstead
+image: /uploads/pexels-tara-winstead-8378723.jpg
 tags:
   - General
   - Growth & Market Strategy
